@@ -6,12 +6,6 @@
 			"value": "https://api.trello.com",
 			"type": "default",
 			"enabled": true
-		},
-		{
-			"key": "BaseUrl",
-			"value": "http://fakerestapi.azurewebsites.net/",
-			"type": "default",
-			"enabled": false
 		}
 	],
 	"name": "Globals",
